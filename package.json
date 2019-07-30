@@ -1,6 +1,7 @@
 {
-  "name": "react-electron",
-  "version": "0.1.0",
+  "name": "<%= projectName %>",
+  "version": "<%= projectVersion %>",
+  "description": "<%= projectDescription %>",
   "private": true,
   "main": "main.js",
   "dependencies": {
